@@ -15,6 +15,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
+// gitTest
+
 public class MainWindow extends JFrame {
     String user_id;    // 当前窗口的用户ID
     int role_id;       // 用户角色ID
